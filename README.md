@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @danielfostiak
-- 👀 I’m interested in web development
+- 👀 I’m interested in full-stack web development
 - 🌱 I’m currently learning next.js
 - 💞️ I’m looking to collaborate on spreedy / studdybuddy / openworld / functionle
 - 📫 How to reach me fostiakd@gmail.com
