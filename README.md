@@ -4,6 +4,8 @@
 - 🌱 I’m learning next.js
 - 📐 I'm half-way through writing my latest mathematical paper, 'Real Revolutionary Freedom'
 - 📫 How to reach me fostiakd@gmail.com
+
+- 📌 Have a look at my pinned projects below
   
 
 <!---
