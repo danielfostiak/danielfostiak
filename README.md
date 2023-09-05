@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @danielfostiak
+- 👋 Hello World, I’m @danielfostiak
 - 👀 I’m interested in full-stack web development
 - 📚 I'm currently reading about applications of Maths and Computer Science in Quant Finance
 - 🌱 I’m learning next.js
