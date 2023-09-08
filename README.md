@@ -1,8 +1,8 @@
-- 👋 Hello World, I’m @danielfostiak
+- 👋 Hello World, I’m @danielfostiak, the developer behind WordLINK
 - 👀 I’m interested in full-stack web development
 - 📚 I'm currently reading about applications of Maths and Computer Science in Quant Finance
-- 🌱 I’m learning next.js
-- 📐 I'm half-way through writing my latest mathematical paper, 'Real Revolutionary Freedom'
+- 🌱 I’m learning Next.js
+- 📐 I'm writing my latest mathematical paper, 'Real Revolutionary Freedom'
 - 📫 How to reach me fostiakd@gmail.com
 
 - 📌 Have a look at my pinned projects below
