@@ -5,7 +5,7 @@
 - 📐 I'm writing my latest mathematical paper, 'Real Revolutionary Freedom'
 - 📫 How to reach me fostiakd@gmail.com
 
-- 📌 Have a look at my pinned projects below
+- 📌 Have a look at my pinned projects
   
 
 <!---
