@@ -2,7 +2,7 @@
 - 👀 I’m interested in full-stack web development
 - 📚 I'm currently reading about applications of Maths and Computer Science in Quant Finance
 - 🌱 I’m learning Next.js
-- 📐 I'm writing my latest mathematical paper, 'Real Revolutionary Freedom'
+- 📐 I'm writing a mathematics paper, 'Real Revolutionary Freedom'
 - 📫 How to reach me fostiakd@gmail.com
 
 - 📌 Have a look at my pinned projects
