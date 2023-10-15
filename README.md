@@ -1,4 +1,4 @@
-- 👋 Hello World, I’m @danielfostiak, the developer behind WordLINK
+- 👋 Hello World, I’m @danielfostiak, the developer behind ["WordLINK"](https://wordlink.xyz)
 - 👀 I’m interested in full-stack web development
 - 📚 I'm currently reading about applications of Maths and Computer Science in Quant Finance
 - 🌱 I’m learning Next.js
